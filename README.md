@@ -8,32 +8,31 @@
 
 # Indice
 
-- [Sobre] (#-sobre)
-- [O Curso] (#-o-curso)
-- [O Instrutor] (#-o-instrutor)
-- [Onde Encontrar O Curso] (#-onde-encontrar-o-curso)
+ - [Sobre] (#-sobre)
+ - [O Curso] (#-O-Curso)
+ - [O Instrutor] (#-O-Instrutor)
+ - [Onde Encontrar o Curso] (#-onde-encontrar-o-curso)
+
+---
+
+
+## 📩 Sobre 
+
+<h3>Anotações feitas por mim durante o curso ministrado pela Cod3r de Web Moderno Completo - Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, entre outros.</h3>
 
 
 ---
 
+## 📚 O Curso
 
-# 📩 Sobre 
-
-Anotações feitas por mim durante o curso ministrado pela Cod3r de Web Moderno Completo - Projetos, Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, MySQL, entre outros.
-
-
----
-
-# 📚 O Curso
-
-Neste curso iremos abordar o desenvolvimento Web de ponta a ponta, para que você seja capaz de construir uma aplicação com as principais tecnologias do mercado. São 14 cursos dentro de um só. Você irá aprender Javascript, que é hoje a linguagem da atualidade, várias empresas estão migrando suas bases de PHP, Python e outras para terem suas bases completamente feitas em javascript. Também irá aprender Node, os últimos recursos de HTML e  CSS, Gulp, Webpack, jQuery, Bootstrap, React ( Tecnologia usada por umas das maiores empresas do mundo, o Facebook), Vue JS, Angular 9, ExpressJS, MySQL e MongoDB.
+>Neste curso iremos abordar o desenvolvimento Web de ponta a ponta, para que você seja capaz de construir uma aplicação com as principais tecnologias do mercado. São 14 cursos dentro de um só. Você irá aprender Javascript, que é hoje a linguagem da atualidade, várias empresas estão migrando suas bases de PHP, Python e outras para terem suas bases completamente feitas em javascript. Também irá aprender Node, os últimos recursos de HTML e  CSS, Gulp, Webpack, jQuery, Bootstrap, React ( Tecnologia usada por umas das maiores empresas do mundo, o Facebook), Vue JS, Angular 9, ExpressJS, MySQL e MongoDB.
 -  Cod3r
 
 
 ---
 
 
-# 👨‍🏫 O Instrutor
+## 👨‍🏫 O Instrutor
 
 
 <img src="">
@@ -43,14 +42,14 @@ Neste curso iremos abordar o desenvolvimento Web de ponta a ponta, para que voc�
 ### Leonardo Leitão
 
 
-Leonardo Leitão é graduado em Engenharia Elétrica pela Universidade Federal do Ceará e Mestre em Informática Aplicada pela UFF. Há 13 anos atua como desenvolvedor de softwares e é professor de desenvolvimento de software há mais de 10 anos. Insturtor premiado internacionalmente pela excelência dos seus cursos, fundador do Cod3r, reconhecido como uma das melhores escolas de tecnologia do país onde já passaram mais de 150 mil alunos.
+ Leonardo Leitão é graduado em Engenharia Elétrica pela Universidade Federal do Ceará e Mestre em Informática Aplicada pela UFF. Há 13 anos atua como desenvolvedor de softwares e é professor de desenvolvimento de software há mais de 10 anos. Insturtor premiado internacionalmente pela excelência dos seus cursos, fundador do Cod3r, reconhecido como uma das melhores escolas de tecnologia do país onde já passaram mais de 150 mil alunos. 
 
 
 ---
 
 
 
-# 🔎 Onde encontrar o curso
+## 🔎 Onde encontrar o curso
 
 
 O curso pode ser encontrado no <a href="https://www.cod3r.com.br/courses/web-moderno"> site da escola Cod3r </a> ou pela <a href="https://www.udemy.com/course/curso-web/"> Udemy </a>
