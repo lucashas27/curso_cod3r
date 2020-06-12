@@ -6,13 +6,6 @@
 </p>
 
 
-# Indice
-
- - [Sobre] (#-sobre)
- - [O Curso] (#-O-Curso)
- - [O Instrutor] (#-O-Instrutor)
- - [Onde Encontrar o Curso] (#-onde-encontrar-o-curso)
-
 ---
 
 
@@ -35,7 +28,6 @@
 ## 👨‍🏫 O Instrutor
 
 
-<img src="">
 
 <img src="https://thinkific-import.s3.amazonaws.com/220759/6jcneyGCR4WQ6B4zIKWe_Captura%20de%20Tela%202020-01-22%20a%CC%80s%2000.00.42.png" width="300" />
 
